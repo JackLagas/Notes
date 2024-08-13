@@ -58,6 +58,7 @@ $$
 
 ## A
 What is the solution to the system?
+### Solution:
 $$
 \left [ {\begin{array}{cc}
 4 & -3 & -3 \\
@@ -94,12 +95,21 @@ R_{1}'=R_{1}+\frac{3}{4}R_{2}
 $$
 $$
 \left [ {\begin{array}{cc}
-1 & 0 & -\frac{3}{4} \\
+1 & 0 & -3 \\
 0 & 1 & -3 \\
 \end{array}} \right]
 $$
+### Answer:
+$$
+\begin{cases}
+& x = -3 \\
+& y = -3 \\
+\end{cases}
+$$
 ## B
 Identify which of the equations below represents graph A and which equation represents graph B.
+
+### Solution:
 $$
 4x-3y=-3 
 $$
@@ -120,7 +130,8 @@ $$
 $$
 
 ## Question 3
-
+Solve the system. If the system has an infinite number of solutions, parameterize them by letting z  = t.
+### Solution:
 $$
 \begin{cases}
 & 7x &+ &2y &- &20z &= &8 \\
