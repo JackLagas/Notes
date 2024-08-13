@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Jack's Notes
 ---
+This is the homepage for my notes.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+⚠️ UNDER CONSTRUCTION ⚠️
