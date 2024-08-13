@@ -1,11 +1,12 @@
 ## Question 1
-### Solve this system of equations
+Solve the following system of equations
 $$
     \begin{cases}
 	 & x - 2y  = 3 \\ \\
      & 4x + 3y = 23 
     \end{cases}       
 $$
+### Solution:
 $$
   \left[ {\begin{array}{cc}
     1 & -2 & 3 \\
@@ -45,6 +46,8 @@ $$
 $$
 
 ## Question 2
+Consider the following system of equations and its graph:
+
 $$
     \begin{cases}
 	 & 4x - 3y  = -3 \\ \\
@@ -53,6 +56,37 @@ $$
 $$
 ![[TicketInTheDoor1Graph.png]]
 
+## A
+What is the solution to the system?
+$$
+\left [ {\begin{array}{cc}
+4 & -3 & -3 \\
+2 & 1 & -9 \\
+\end{array}} \right]
+$$
+$$
+\left [ {\begin{array}{cc}
+4 & -3 & -3 \\
+2 & 1 & -9 \\
+\end{array}} \right]
+R_{1}'= \frac{1}{4}R_{1}
+$$
+$$
+\left [ {\begin{array}{cc}
+1 & -\frac{3}{4} & -\frac{3}{4} \\
+2 & 1 & -9 \\
+\end{array}} \right]
+R_{2}' = R_{2} - 2R_{1}
+$$
+$$
+\left [ {\begin{array}{cc}
+1 & -\frac{3}{4} & -\frac{3}{4} \\
+0 & 1 & -9 \\
+\end{array}} \right]
+
+$$
+## B
+Identify which of the equations below represents graph A and which equation represents graph B.
 $$
 4x-3y=-3 
 $$
