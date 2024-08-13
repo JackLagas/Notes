@@ -81,9 +81,22 @@ $$
 $$
 \left [ {\begin{array}{cc}
 1 & -\frac{3}{4} & -\frac{3}{4} \\
-0 & 1 & -9 \\
+0 & \frac{5}{2} & -\frac{15}{2} \\
 \end{array}} \right]
-
+R_{2}'=\frac{2}{5}R_{2}
+$$
+$$
+\left [ {\begin{array}{cc}
+1 & -\frac{3}{4} & -\frac{3}{4} \\
+0 & 1 & -3 \\
+\end{array}} \right]
+R_{1}'=R_{1}+\frac{3}{4}R_{2}
+$$
+$$
+\left [ {\begin{array}{cc}
+1 & 0 & -\frac{3}{4} \\
+0 & 1 & -3 \\
+\end{array}} \right]
 $$
 ## B
 Identify which of the equations below represents graph A and which equation represents graph B.
