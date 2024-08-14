@@ -178,7 +178,7 @@ Which of the following is NOT an elementary row operation?
 - C) Interchange (swap) two rows  
 - D) Add a multiple of one row to another row
 ## Answer:
-A, you cannot delete rows
+A, you cannot delete rows.
 
 # Question 8
 According to a definition, which of the following is NOT a condition for a matrix to be in reduced row echelon form
@@ -186,3 +186,78 @@ According to a definition, which of the following is NOT a condition for a matri
 - B) The leading entry in each nonzero row is the number 0  
 - C) The leading entry in each nonzero row is the number 1  
 - D) The leading entry in each nonzero row is the only nonzero entry in its column
+
+## Answer:
+B, the leading entry must be nonzero by definition.
+
+# Question 9
+$$
+\text{Let M = }
+\left[{\begin{array}{cc}
+1 & -3 & -5 \\
+4 & 3 & -4 \\
+\end{array}}\right]
+$$
+Find the row echelon form.
+Hint: Do not make the pivots equal to 1.
+
+## Solution:
+$$
+\left[{\begin{array}{cc}
+1 & -3 & -5 \\
+4 & 3 & -4 \\
+\end{array}}\right]
+R_{2}' = R_{2} - 4R_{1}
+$$
+$$
+\left[{\begin{array}{cc}
+1 & -3 & -5 \\
+0 & 15 & 16 \\
+\end{array}}\right]
+$$
+
+## Answer:
+$$
+\left[{\begin{array}{cc}
+1 & -3 & -5 \\
+0 & 15 & 16 \\
+\end{array}}\right]
+$$
+
+# Question 10
+Solve the system of equation
+$$
+\begin{cases}
+& x &= -2 - 3z - 2y \\
+& 5x - 4y &= 4 \\
+\end{cases}
+$$
+Enter your solution in parameterized form, using t to parameterize the free variable.
+
+## Solution:
+$$
+\begin{cases}
+& x &+ &2y &+ &3z &= &-2 \\
+& 5x &- &4y & & &= &4
+\end{cases}
+$$
+$$
+\left[{\begin{array}{cc}
+1 & 2 & 3 & -2 \\
+5 & -4 & 0 & 4 \\
+\end{array}}\right]
+R_{2}' = R_{2} - 5R_{1}
+$$
+$$
+\left[{\begin{array}{cc}
+1 & 2 & 3 & -2 \\
+0 & -14 & -15 & 14 \\
+\end{array}}\right]
+R_{1}'=R_{1} + \frac{1}{7}R_{2}
+$$
+$$
+\left[{\begin{array}{cc}
+1 & 0 & 3 & 0 \\
+0 & -14 & -15 & 14 \\
+\end{array}}\right]
+$$
