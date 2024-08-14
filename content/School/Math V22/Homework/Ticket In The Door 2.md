@@ -43,3 +43,11 @@ $$
 &   &  &y &+ &3z &= &-3 \\ 
 \end{cases}
 $$
+
+## Solution:
+$$
+\left[{\begin{array}{cc}
+1 & 4 & 7 & 7 \\
+0 & 1 & 3 & -3 \\
+\end{array}} \right]
+$$

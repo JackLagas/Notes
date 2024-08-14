@@ -213,8 +213,8 @@ $$
 ### Answer:
 $$
 \begin{cases}
-& x = -2t \\
-& y = 4-3t \\
+& x = 2t \\
+& y = 4+3t \\
 & z = t \\
 \end{cases}
 $$
