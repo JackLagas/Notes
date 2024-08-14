@@ -287,3 +287,70 @@ $$
 0 & -3 & -2 \\
 \end{array}}\right]
 $$
+## Solution:
+$$
+\left[{\begin{array}{cc}
+2 & 5 & -1 \\
+2 & 3 & -1 \\
+0 & -3 & -2 \\
+\end{array}}\right]
+R_{2}' = 2R_{2}
+$$
+$$
+\left[{\begin{array}{cc}
+2 & 5 & -1 \\
+4 & 6 & -2 \\
+0 & -3 & -2 \\
+\end{array}}\right]
+R_{2}' = R_{2}-2R_{1}
+$$
+$$
+\left[{\begin{array}{cc}
+2 & 5 & -1 \\
+0 & -4 & 0 \\
+0 & -3 & -2 \\
+\end{array}}\right]
+R_{3}' = -4R_{3}
+$$
+$$
+\left[{\begin{array}{cc}
+2 & 5 & -1 \\
+0 & -4 & 0 \\
+0 & 12 & 8 \\
+\end{array}}\right]
+R_{3}' = R_{3}+3R_{2}
+$$
+$$
+\left[{\begin{array}{cc}
+2 & 5 & -1 \\
+0 & -4 & 0 \\
+0 & 0 & 8 \\
+\end{array}}\right]
+$$
+
+## Answer:
+$$
+\left[{\begin{array}{cc}
+2 & 5 & -1 \\
+0 & -4 & 0 \\
+0 & 0 & 8 \\
+\end{array}}\right]
+$$
+
+# Question 12
+Suppose the row-echelon form of a system of equations is
+$$
+\begin{cases}
+& -9x &+ &y &- &10z &= &0 \\
+&  & &10y &- &7z &= &0
+\end{cases}
+$$
+A parameterized set of solutions for this system, using s to parameterize the free variable is:
+
+## Solution:
+$$
+\left[{\begin{array}{cc}
+-9 & 1 & -10 & 0 \\
+0 & 10 & -7 & 0 \\
+\end{array}}\right]
+$$
