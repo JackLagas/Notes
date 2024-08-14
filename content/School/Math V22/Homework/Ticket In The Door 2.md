@@ -260,4 +260,30 @@ $$
 1 & 0 & \frac{6}{7} & 0 \\
 0 & -14 & -15 & 14 \\
 \end{array}}\right]
+R_{2}' = -\frac{R_{2}}{14}
+$$
+$$
+\left[{\begin{array}{cc}
+1 & 0 & \frac{6}{7} & 0 \\
+0 & 1 & \frac{15}{14} & -1 \\
+\end{array}}\right]
+$$
+
+## Answer:
+$$
+\begin{cases}
+& x = -\frac{6}{7}t \\
+& y = -1 - \frac{15}{14}t \\
+\end{cases}
+$$
+
+# Question 11
+For this problem, use the Fang Cheng Shu method so you don't have fractional entries, and do NOT eliminate common factors.
+$$
+\text{Let M = }
+\left[{\begin{array}{cc}
+2 & 5 & -1 \\
+2 & 3 & -1 \\
+0 & -3 & -2 \\
+\end{array}}\right]
 $$
