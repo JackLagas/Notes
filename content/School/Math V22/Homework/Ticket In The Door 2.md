@@ -353,4 +353,37 @@ $$
 -9 & 1 & -10 & 0 \\
 0 & 10 & -7 & 0 \\
 \end{array}}\right]
+R_{1}' = 10R_{1}
+$$
+$$
+\left[{\begin{array}{cc}
+-90 & 10 & -100 & 0 \\
+0 & 10 & -7 & 0 \\
+\end{array}}\right]
+R_{1}' = R_{1} - R_{2}
+$$
+$$
+\left[{\begin{array}{cc}
+-90 & 0 & -93 & 0 \\
+0 & 10 & -7 & 0 \\
+\end{array}}\right]
+\begin{aligned}
+&R_{1}' = -\frac{1}{90}R_{1} \\
+&R_{2}' = \frac{1}{10}R_{2} \\
+\end{aligned}
+$$
+$$
+\left[{\begin{array}{cc}
+1 & 0 & \frac{31}{30} & 0 \\
+0 & 1 & -\frac{7}{10} & 0 \\
+\end{array}}\right]
+$$
+
+## Answer:
+$$
+\begin{cases}
+& x = -\frac{31}{30}s \\
+& y = \frac{7}{10}s \\
+& z = s
+\end{cases}
 $$
