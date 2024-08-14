@@ -31,7 +31,7 @@ What are the dimensions of this matrix?
 
 ## B
 What is M<sub>14</sub>
-### Answer
+### Answer:
 M<sub>14</sub> refers to the fourth column of the first row of matrix M.
 In this case it is -5.
 
@@ -149,7 +149,40 @@ $$
 \end{array}}\right]
 $$
 
-## Answer
+## Answer:
 B, C, & D are in Row-Echelon Form.
 
 
+# Question 6
+$$
+\text{Let M = }
+\left [{\begin{array}{cc}
+4 & 2 & 3 \\
+-4 & -2 & -5 \\
+\end{array}}\right]
+$$
+Enter the matrix formed by performing the row operation 2R<sub>1</sub> + R<sub>2</sub> -> R<sub>2</sub>
+
+## Answer:
+$$
+\left [{\begin{array}{cc}
+4 & 2 & 3 \\
+4 & 2 & 1 \\
+\end{array}}\right]
+$$
+
+# Question 7
+Which of the following is NOT an elementary row operation?  
+- A) Delete a row of negative numbers  
+- B) Multiply a row by a nonzero constant  
+- C) Interchange (swap) two rows  
+- D) Add a multiple of one row to another row
+## Answer:
+A, you cannot delete rows
+
+# Question 8
+According to a definition, which of the following is NOT a condition for a matrix to be in reduced row echelon form
+- A) The matrix is in row echelon form  
+- B) The leading entry in each nonzero row is the number 0  
+- C) The leading entry in each nonzero row is the number 1  
+- D) The leading entry in each nonzero row is the only nonzero entry in its column
