@@ -11,7 +11,7 @@ $$
 $$
 This is a \_\_\_ x \_\_\_ matrix, where m<sub>21</sub> = \_\_\_
 
-## Answer 
+## Answer:
 This is a 4x2 matrix, where m<sub>21</sub> = -10
 
 # Question 2 
@@ -45,8 +45,9 @@ $$
 -2 & 5 & 1 \\
 \end{array}}\right]
 $$
+Choose two different matrices and add them.
 
-## Solution
+## Solution:
 $$
 \text{A + C = }
 
@@ -69,6 +70,7 @@ $$
 -1+5 & 10+1
 \end{array}}\right]
 $$
+## Answer:
 $$
 \left[{\begin{array}{cc}
 5 & -9 \\
@@ -76,3 +78,64 @@ $$
 4 & 11
 \end{array}}\right]
 $$
+
+# Question 3
+$$
+\text{Given A = }
+\left[{\begin{array}{cc}
+-2 & 4 & 3 & 1 & 2 \\
+-4 & -4 & -5 & -5 & -2 \\
+5 & -3 & -5 & 2 & -3 \\ 
+1 & 1 & 2 & 0 & -3 \\
+\end{array}}\right]
+\text{, B = }
+\left[{\begin{array}{cc}
+3 & -4 & 1 & 0 \\
+-5 & 5 & -2 & 4 \\
+0 & 1 & 2 & -3 \\ 
+4 & -4 & -5 & 4 \\
+-3 & -1 & 4 & 3 \\
+\end{array}}\right]
+\text{, C = }
+\left[{\begin{array}{cc}
+-1 & 1 & 4 & 4 \\
+-3 & -3 & -5 & 3 \\
+-2 & -2 & 2 & 0 \\ 
+-3 & -2 & 5 & -3 \\
+\end{array}}\right]
+$$
+Which of the following products can be computed
+AC BC CB BA AB CA
+
+## Answer:
+AB BA BC CA
+
+# Question 4
+$$
+\text{Let A = }
+\left[{\begin{array}{cc}
+8 & -2 \\
+2 & -3 \\
+3 & -2 \\ 
+\end{array}}\right]
+\text{, B = }
+\left[{\begin{array}{cc}
+-7 & -5 & -1 & -7 \\
+2 & 1 & -1 & -2 \\
+4 & -3 & -1 & -10 \\ 
+\end{array}}\right]
+\text{, C = }
+\left[{\begin{array}{cc}
+5 & -9 & 4 & 7 \\
+8 & -2 & 9 & 0 \\
+\end{array}}\right]
+\text{, D = }
+\left[{\begin{array}{cc}
+0 \\
+5 \\
+-5 \\ 
+10 \\
+3 \\
+\end{array}}\right]
+$$
+Find the product of any two of the matrices.
