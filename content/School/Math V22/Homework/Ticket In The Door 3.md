@@ -140,6 +140,8 @@ $$
 $$
 Find the product of any two of the matrices.
 
+## Solution:
+
 $$
 A \times C
 $$
@@ -158,18 +160,22 @@ $$
 $$
 \left[{\begin{array}{cc}
 (8)\times(5) + (-2)\times(8)  & (8)\times(-9) + (-2)\times(-2) & (8)\times(4)+(-2)\times(9) & (8)\times(7) + (-2)\times(0) \\
-
 (2)\times(5) + (-3)\times(8)  & (2)\times(-9) + (-3)\times(-2) & (2)\times(4)+(-3)\times(9) & (2)\times(7) + (-3)\times(0) \\
-
 (3)\times(5) + (-2)\times(8)  & (3)\times(-9) + (-2)\times(-2) & (3)\times(4)+(-2)\times(9) & (3)\times(7) + (-2)\times(0) \\
 \end{array}}\right]
 $$
 $$
 \left[{\begin{array}{cc}
 40 - 16  & -72 + 4 & 32-18 & 56 + 0 \\
-
 10 - 24  & -18 + 6 & 8 - 27 & 14 + 0 \\
-
-(3)\times(2) + (-2)\times(8)  & (3)\times(-9) + (-2)\times(-2) & (3)\times(4)+(-2)\times(9) & (3)\times(7) + (-2)\times(0) \\
+15 - 16  &  -27 + 4 & 12 - 18 & 21 + 0 \\
+\end{array}}\right]
+$$
+## Answer:
+$$
+\left[{\begin{array}{cc}
+24  & -68 & 14 & 56  \\
+-14  & -12 & -19 & 14 \\
+-1  &  -23 & -6 & 21 \\
 \end{array}}\right]
 $$
