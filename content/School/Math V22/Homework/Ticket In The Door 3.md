@@ -141,28 +141,24 @@ $$
 Find the product of any two of the matrices.
 
 $$
-B \times D
+A \times C
 $$
 $$
 \left[{\begin{array}{cc}
--7 & -5 & -1 & -7 \\
-2 & 1 & -1 & -2 \\
-4 & -3 & -1 & -10 \\ 
+8 & -2 \\
+2 & -3 \\
+3 & -2 \\ 
 \end{array}}\right]
 \times
 \left[{\begin{array}{cc}
-0 \\
-5 \\
--5 \\ 
-10 \\
-3 \\
+5 & -9 & 4 & 7 \\
+8 & -2 & 9 & 0 \\
 \end{array}}\right]
 $$
 $$
 \left[{\begin{array}{cc}
--7 & -5 & -1 & -7 \\
-2 & 1 & -1 & -2 \\
-4 & -3 & -1 & -10 \\ 
+5  & -9 & 4 & 7 \\
+8 & -2 & 9 & 0 \\
+8 & -2 & 9 & 0 \\
 \end{array}}\right]
-
 $$
