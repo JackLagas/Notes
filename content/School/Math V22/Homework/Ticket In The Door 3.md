@@ -157,7 +157,7 @@ $$
 $$
 $$
 \left[{\begin{array}{cc}
-5  & -9 & 4 & 7 \\
+(8)\times(2) + (-2)\times(8)  & (8)\times(-9) + (-2)\times(-2) & 4 & 7 \\
 8 & -2 & 9 & 0 \\
 8 & -2 & 9 & 0 \\
 \end{array}}\right]
