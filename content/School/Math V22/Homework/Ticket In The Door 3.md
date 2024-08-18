@@ -139,3 +139,30 @@ $$
 \end{array}}\right]
 $$
 Find the product of any two of the matrices.
+
+$$
+B \times D
+$$
+$$
+\left[{\begin{array}{cc}
+-7 & -5 & -1 & -7 \\
+2 & 1 & -1 & -2 \\
+4 & -3 & -1 & -10 \\ 
+\end{array}}\right]
+\times
+\left[{\begin{array}{cc}
+0 \\
+5 \\
+-5 \\ 
+10 \\
+3 \\
+\end{array}}\right]
+$$
+$$
+\left[{\begin{array}{cc}
+-7 & -5 & -1 & -7 \\
+2 & 1 & -1 & -2 \\
+4 & -3 & -1 & -10 \\ 
+\end{array}}\right]
+
+$$
