@@ -166,7 +166,7 @@ $$
 $$
 $$
 \left[{\begin{array}{cc}
-(8)\times(2) + (-2)\times(8)  & (8)\times(-9) + (-2)\times(-2) & (8)\times(4)+(-2)\times(9) & (8)\times(7) + (-2)\times(0) \\
+16 + -16  & -72 + 4 & 32+(-2)\times(9) & (8)\times(7) + (-2)\times(0) \\
 
 (2)\times(2) + (-3)\times(8)  & (2)\times(-9) + (-3)\times(-2) & (2)\times(4)+(-3)\times(9) & (2)\times(7) + (-3)\times(0) \\
 
