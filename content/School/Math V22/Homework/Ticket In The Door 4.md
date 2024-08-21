@@ -304,9 +304,26 @@ A^{-1}=
 \end{array}}\right]
 $$
 $$
-
 \left [{\begin{array}{cc}
  7 & 2 \\
  -18 & -5\\
+\end{array}}\right]
+\times
+\left [{\begin{array}{cc}
+ -29  \\
+ 105 \\
+\end{array}}\right]
+$$
+$$
+\left [{\begin{array}{cc}
+ (-29)(7) + (105)(2)  \\
+ (-29)(-18) + (105)(-5)  \\
+\end{array}}\right]
+$$
+## Answer:
+$$
+\left [{\begin{array}{cc}
+ 7  \\
+ -3  \\
 \end{array}}\right]
 $$
