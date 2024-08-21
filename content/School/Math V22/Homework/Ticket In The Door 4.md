@@ -146,3 +146,65 @@ $$
 0 & 1 & 0 & -1 & 1 \\
 \end{array}}\right]
 $$
+$$
+\left [{\begin{array}{cc}
+-2 & 0 & 1 & 0 & 1 \\
+0 & -2 & 0 & 1 & 0 \\
+1 & 0 & -1 & 0 & 0 \\
+0 & 1 & 0 & -1 & 1 \\
+\end{array}}\right]
+\begin{aligned}
+R_{1}<-> R_{3}
+R_{2}<-> R_{4}
+\end{aligned}
+$$
+$$
+\left [{\begin{array}{cc}
+1 & 0 & -1 & 0 & 0 \\
+0 & 1 & 0 & -1 & 1 \\
+-2 & 0 & 1 & 0 & 1 \\
+0 & -2 & 0 & 1 & 0 \\
+\end{array}}\right]
+R_{3}' = R_{3}+2R_{1}
+$$
+$$
+\left [{\begin{array}{cc}
+1 & 0 & -1 & 0 & 0 \\
+0 & 1 & 0 & -1 & 1 \\
+0 & 0 & -1 & 0 & 1 \\
+0 & -2 & 0 & 1 & 0 \\
+\end{array}}\right]
+R_{4}' = R_{4}+2R_{2}
+$$
+$$
+\left [{\begin{array}{cc}
+1 & 0 & -1 & 0 & 0 \\
+0 & 1 & 0 & -1 & 1 \\
+0 & 0 & -1 & 0 & 1 \\
+0 & 0 & 0 & -1 & 2 \\
+\end{array}}\right]
+\begin{aligned}
+R_{3}'=-R_{3}
+R_{4}'=-R_{4}
+\end{aligned}
+$$
+$$
+\left [{\begin{array}{cc}
+1 & 0 & -1 & 0 & 0 \\
+0 & 1 & 0 & -1 & 1 \\
+0 & 0 & 1 & 0 & -1 \\
+0 & 0 & 0 & 1 & -2 \\
+\end{array}}\right]
+\begin{aligned}
+R_{1}'=R_{1}+R_{3}
+R_{2}'=R_{2}+R_{4}
+\end{aligned}
+$$
+$$
+\left [{\begin{array}{cc}
+1 & 0 & 0 & 0 & -1 \\
+0 & 1 & 0 & 0 & -1 \\
+0 & 0 & 1 & 0 & -1 \\
+0 & 0 & 0 & 1 & -2 \\
+\end{array}}\right]
+$$
