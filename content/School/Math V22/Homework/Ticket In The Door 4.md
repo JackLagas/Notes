@@ -285,7 +285,28 @@ R_{1}' = R_{1}-4R_{2}
 $$
 $$
 \left [{\begin{array}{cc|cc}
-10 & 0 & -2 & 0 \\
+10 & 0 & 70 & 20 \\
 0 & 1 & -18 & -5\\
+\end{array}}\right]
+R_{1}' = \frac{1}{10}R_{1}
+$$
+$$
+\left [{\begin{array}{cc|cc}
+1 & 0 & 7 & 2 \\
+0 & 1 & -18 & -5\\
+\end{array}}\right]
+$$
+$$
+A^{-1}=
+\left [{\begin{array}{cc}
+ 7 & 2 \\
+ -18 & -5\\
+\end{array}}\right]
+$$
+$$
+
+\left [{\begin{array}{cc}
+ 7 & 2 \\
+ -18 & -5\\
 \end{array}}\right]
 $$
