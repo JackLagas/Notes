@@ -250,8 +250,15 @@ $$
 X=A^{-1}B
 $$
 $$
-\left [{\begin{array}{cc}
--5 & -2 &| & 1 & 0 \\
-18 & 7  &| & 0 & 1\\
+\left [{\begin{array}{cc|cc}
+-5 & -2 & 1 & 0 \\
+18 & 7 & 0 & 1\\
+\end{array}}\right]
+
+$$
+$$
+\left [{\begin{array}{cc|cc}
+-5 & -2 & 1 & 0 \\
+18 & 7 & 0 & 1\\
 \end{array}}\right]
 $$
