@@ -208,3 +208,30 @@ $$
 0 & 0 & 0 & 1 & -2 \\
 \end{array}}\right]
 $$
+## Answer:
+$$
+\left [{\begin{array}{cc}
+-1 & -1 \\
+-1 & -2 \\
+\end{array}}\right]
+$$
+
+# Question 3
+$$
+\text{Solve the matrix equation AX = B for X}
+$$
+$$
+\text{A = }
+\left [{\begin{array}{cc}
+-5 & -2 \\
+18 & 7 \\
+\end{array}}\right]
+\text{, B =}
+\left [{\begin{array}{cc}
+-29 \\
+105 \\
+\end{array}}\right]
+$$
+$$
+\text{X = }
+$$
