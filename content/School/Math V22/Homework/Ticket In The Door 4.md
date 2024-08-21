@@ -154,8 +154,8 @@ $$
 0 & 1 & 0 & -1 & 1 \\
 \end{array}}\right]
 \begin{aligned}
-R_{1}<-> R_{3}
-R_{2}<-> R_{4}
+R_{1}<-> R_{3}\\
+R_{2}<-> R_{4}\\
 \end{aligned}
 $$
 $$
@@ -184,8 +184,8 @@ $$
 0 & 0 & 0 & -1 & 2 \\
 \end{array}}\right]
 \begin{aligned}
-R_{3}'=-R_{3}
-R_{4}'=-R_{4}
+R_{3}'=-R_{3}\\
+R_{4}'=-R_{4}\\
 \end{aligned}
 $$
 $$
@@ -196,8 +196,8 @@ $$
 0 & 0 & 0 & 1 & -2 \\
 \end{array}}\right]
 \begin{aligned}
-R_{1}'=R_{1}+R_{3}
-R_{2}'=R_{2}+R_{4}
+R_{1}'=R_{1}+R_{3}\\
+R_{2}'=R_{2}+R_{4}\\
 \end{aligned}
 $$
 $$
@@ -254,11 +254,38 @@ $$
 -5 & -2 & 1 & 0 \\
 18 & 7 & 0 & 1\\
 \end{array}}\right]
-
+\begin{aligned}
+R_{1}' = 18R_{1}\\
+R_{2}' = 5R_{2}\\
+\end{aligned}
 $$
 $$
 \left [{\begin{array}{cc|cc}
--5 & -2 & 1 & 0 \\
-18 & 7 & 0 & 1\\
+-90 & -36 & 18 & 0 \\
+90 & 35 & 0 & 5\\
+\end{array}}\right]
+R_{2}' = R_{2}+ R_{1}
+$$
+$$
+\left [{\begin{array}{cc|cc}
+-90 & -36 & 18 & 0 \\
+0 & -1 & 18 & 5\\
+\end{array}}\right]
+\begin{aligned}
+R_{2}' = -R_{2}\\
+R_{1}' = -\frac{1}{9} R_{1}\\
+\end{aligned}
+$$
+$$
+\left [{\begin{array}{cc|cc}
+10 & 4 & -2 & 0 \\
+0 & 1 & -18 & -5\\
+\end{array}}\right]
+R_{1}' = R_{1}-4R_{2}
+$$
+$$
+\left [{\begin{array}{cc|cc}
+10 & 0 & -2 & 0 \\
+0 & 1 & -18 & -5\\
 \end{array}}\right]
 $$
