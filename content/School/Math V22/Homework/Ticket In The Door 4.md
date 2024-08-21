@@ -101,3 +101,48 @@ $$
 -2 & -1 \\
 \end{array}}\right]
 $$
+# Question 2
+$$
+\text{Let M = }
+\left [{\begin{array}{cc}
+-2 & 1 \\
+1 & -1 \\
+\end{array}}\right]
+$$
+$$
+M^{-1} = 
+$$
+
+## Solution:
+$$
+\left [{\begin{array}{cc}
+-2 & 1 \\
+1 & -1 \\
+\end{array}}\right]
+\times
+\left [{\begin{array}{cc}
+x_1 & x_2 \\
+x_3 & x_4 \\
+\end{array}}\right]
+\text{ = }
+\left [{\begin{array}{cc}
+1 & 0 \\
+0 & 1 \\
+\end{array}}\right]
+$$
+$$
+\begin{cases}
+-2x_{1} &+ &1x_{3} &= &1\\
+-2x_{2} &+ &1x_{4} &= &0 \\
+1x_{1} &- &1x_{3} &= &0\\
+1x_{2} &- &1x_{4} &= &1 \\
+\end{cases}
+$$
+$$
+\left [{\begin{array}{cc}
+-2 & 0 & 1 & 0 & 1 \\
+0 & -2 & 0 & 1 & 0 \\
+1 & 0 & -1 & 0 & 0 \\
+0 & 1 & 0 & -1 & 1 \\
+\end{array}}\right]
+$$
